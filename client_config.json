@@ -6,6 +6,6 @@
         "game_url" : "https://samp-mobile.shop/launcher.apk",
         "version_code": 143,
         "url_launcher": "https://samp-mobile.shop/launcher.apk",
-        "url_cache_files": "https://samp-mobile.shop/files.json"
+        "url_cache_files": "https://raw.githubusercontent.com/Yass1234y/Json/refs/heads/main/files.json"
     }
 }
