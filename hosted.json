@@ -1,0 +1,17 @@
+{
+    "query": [
+        {
+            "number": 0,
+            "name": ".: Zona America del Sur FreeRoam :. [Android\/PC]",
+            "ip": "193.106.248.215",
+            "port": 4050,
+            "online": 1,
+            "maxplayers": 100,
+            "password": false,
+            "expiresAt": null,
+            "planDays": 99999,
+            "ping": 130,
+            "isOnline": true
+        }
+    ]
+}
